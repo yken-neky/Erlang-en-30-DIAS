@@ -1,8 +1,3 @@
-# Erlang-in-30-days
-Curso básico de Erlang pensado para vencer en 30 días generado por IA. 
-
----
-
 Este es un plan de aprendizaje de Erlang previsto a realizarse en 30 días. Es generado por IA (Deepseek) y está orientado de alguna forma a mis necesidades específicas al momento en que lo estuve aprendiendo. Teniendo en cuenta esto, aquí dejo el desglose de los contenidos por semanas... 
 
 Espero sea de ayuda. 
