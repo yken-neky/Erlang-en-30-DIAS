@@ -24,5 +24,3 @@ separador_cons([Elemento | Resto]) ->
 suma([]) ->0;
 suma([Cabeza | Cola]) ->
     Cabeza + suma(Cola).
-
-% Parte opcional
