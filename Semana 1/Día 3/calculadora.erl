@@ -4,8 +4,9 @@
 
 sumar(N, N2) -> N + N2.
 
+% funciones como estas no son óptimas, se debe usar tail recursion
 sumatoria(0) -> 0;
-sumatoria(N) when N > 0 -> sumar(N, sumatoria(restar(N, 1))).
+sumatoria(N) when N > 0 -> sumar(N, sumatoria(restar(N, 1))). 
 
 restar(N, N2) when is_number(N), is_number(N2) -> N - N2.
 
